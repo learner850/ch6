@@ -1,5 +1,3 @@
-* Write more specs
-  - There should be detailed specs for most if not all functions
 
 
 * Switch to using the Grit gem instead of the Git gem
